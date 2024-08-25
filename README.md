@@ -5,9 +5,6 @@ I mainly develop:
   - machine learning and data science project
   - enterprise software fullstack
 
-Additionally I am also a beginner level graphical illustrator (Photoshop) as well as a Blender 3D modeler
-Here is my https://www.artstation.com/santtukhknen artstation portfolio
-
 I’m currently studying Machine learning and Data Engineering (BEng), and brushing up on my older skills in Python and web development
 
 I am fluent in Finnish (native), English (fluent), Japanese (semi-fluent: JLPTN2) and Swedish (poor)
